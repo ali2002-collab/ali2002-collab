@@ -17,7 +17,7 @@ Currently, I am a second-year student studying BEng (Hons) Computer Science at A
 - Data Structures and Algorithms to improve my problem-solving abilities.
 - Modern design principles and UX/UI trends to create even more engaging user experiences.
 
-## 💞️ I’m looking to:
+## 👨‍💻 I’m looking to:
 - Collaborate on open-source projects that can showcase my abilities and contribute to real-world solutions.
 - Join a team or find partners for coding practice, particularly for daily LeetCode challenges.
 - Network with other developers to share knowledge and grow together in the field.
