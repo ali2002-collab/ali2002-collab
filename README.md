@@ -24,5 +24,5 @@ Currently, I am a second-year student studying BEng (Hons) Computer Science at A
 
 ## 📫 How to reach me:
 - [LinkedIn](www.linkedin.com/in/syed-muhammad-ali-hassan-79b7812ba)
-- [Email](mailto:syedmuhammadalihassan2002@hotmail.com)
+- [Email](syedmuhammadalihassan2002@hotmail.com)
 
