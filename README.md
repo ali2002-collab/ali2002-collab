@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Syed Muhammad Ali Hassan
 
-I am 21 years old, born and raised in Lahore, Pakistan.
+I am 21 years old from Lahore, Pakistan.
 
-I am a passionate Front-End Developer with a deep love for creating beautiful, responsive, and user-friendly web interfaces. I specialize in working with Git, HTML, CSS, JavaScript, and modern frameworks like React. Additionally, I have experience with Tailwind CSS and TypeScript, and some experience in Java and C.
+I am a passionate Front-End Developer with a deep love for creating beautiful, responsive, and user-friendly interfaces. I specialize in working with Git, HTML, CSS, JavaScript, and modern frameworks like React & React Native. Additionally, I have experience with Tailwind CSS, SASS, and TypeScript, along with some familiarity with Java and C.
 
 Currently, I am a second-year student studying BEng (Hons) Computer Science at Anglia Ruskin University, Cambridge, England.
 
