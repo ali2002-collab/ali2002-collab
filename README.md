@@ -2,7 +2,7 @@
 
 I am 22 years old from Lahore, Pakistan.
 
-I am a passionate Software Developer with a deep love for creating robust, scalable, and efficient software solutions. I am proficient in a wide range of development tools and technologies, including HTML, CSS, JavaScript, TypeScript, and frameworks like React JS and React Native. I have hands-on experience with tools such as Tailwind CSS, SCSS, Bootstrap, and EXPO, allowing me to build highly responsive, user-friendly interfaces. In addition to my front-end expertise, I have also developed projects using Java and C, further broadening my capabilities in software development.
+I am a passionate Software Developer with a deep love for creating robust, scalable, and efficient software solutions. I am proficient in a wide range of development tools and technologies, including HTML, CSS, JavaScript, TypeScript, and frameworks like React JS and React Native. I have hands-on experience with tools such as Tailwind CSS, SCSS, Bootstrap, and EXPO, allowing me to build highly responsive, user-friendly interfaces. In addition to my front-end expertise, I have also developed projects using Java, C#, MySQL and C, further broadening my capabilities in software development.
 
 I also utilize Git for version control, Rapid API for API integration, and VITE for optimized front-end tooling, ensuring efficient and scalable application development.
 
