@@ -11,7 +11,7 @@ Currently, I am a second-year student studying BEng (Hons) Computer Science at A
 ## 👀 I’m interested in:
 - Gaining hands-on experience in the field of software development through part-time work or internships.
 - Contributing to Open Source projects to hone my skills and give back to the community.
-- Keeping up with the latest trends and best practices in software development.
+- Keeping up with the latest trends and best practices in software development .
 - Working remotely or on-site to collaborate with other developers and teams.
 
 ## 🌱 I’m currently learning:
