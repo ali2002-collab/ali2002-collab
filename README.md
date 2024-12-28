@@ -1,12 +1,15 @@
 # 👋 Hi, I’m Syed Muhammad Ali Hassan
 
-I am 22 years old from Lahore, Pakistan.
+### About Me
+Hi there! I'm a **22-year-old Software Engineer** from **Lahore, Pakistan**, currently pursuing a **BEng (Hons) in Computer Science** at **Anglia Ruskin University, Cambridge, England**. I am passionate about creating **robust, scalable, and efficient software solutions**, and I enjoy tackling challenging problems using innovative technologies.
 
-I am a passionate Software Developer with a deep love for creating robust, scalable, and efficient software solutions. I am proficient in a wide range of development tools and technologies, including HTML, CSS, JavaScript, TypeScript, and frameworks like React JS and React Native. I have hands-on experience with tools such as Tailwind CSS, SCSS, Bootstrap, and EXPO, allowing me to build highly responsive, user-friendly interfaces. In addition to my front-end expertise, I have also developed projects using Java, C#, MySQL and C, further broadening my capabilities in software development.
-
-I also utilize Git for version control, Rapid API for API integration, and VITE for optimized front-end tooling, ensuring efficient and scalable application development.
-
-Currently, I am a second-year student studying BEng (Hons) Computer Science at Anglia Ruskin University, Cambridge, England.
+### 💻 Technical Skills
+I specialize in a wide range of tools and technologies, including:
+- **Frontend Development**: HTML, CSS, JavaScript, TypeScript, React JS, Next Js, React Native
+- **Styling Frameworks**: Tailwind CSS, SCSS, Bootstrap
+- **Tooling & Version Control**: Git, VITE, EXPO, Rapid API
+- **Backend Development**: Java (Spring Boot), C#, C, MySQL
+- **Database Management**: MySQL (with hands-on expertise in **MySQL Workbench**)
 
 ## 👀 I’m interested in:
 - Gaining hands-on experience in the field of software development through part-time work or internships.
