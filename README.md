@@ -21,7 +21,6 @@ I specialize in a wide range of tools and technologies, including:
 - Advanced JavaScript concepts and frameworks to further enhance my development skills.
 - Modern design principles and UX/UI trends to create even more engaging user experiences.
 - Backend development with Java, specifically using Spring Boot to create APIs and microservices.
-- C# and exploring backend architecture to build scalable applications.
 - MongoDB to manage data efficiently in full-stack projects.
 - Data Structures and Algorithms to improve my problem-solving abilities.
 
