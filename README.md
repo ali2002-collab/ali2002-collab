@@ -8,7 +8,7 @@ I specialize in a wide range of tools and technologies, including:
 - **Frontend Development**: HTML, CSS, JavaScript, TypeScript, React JS, Next Js, React Native
 - **Styling Frameworks**: Tailwind CSS, SCSS, Bootstrap
 - **Tooling & Version Control**: Git, VITE, EXPO, Rapid API
-- **Backend Development**: Java (Spring Boot), C#, C, MySQL
+- **Backend Development**: Java, C#, C, MySQL
 - **Database Management**: MySQL (with hands-on expertise in **MySQL Workbench**)
 
 ## 👀 I’m interested in:
