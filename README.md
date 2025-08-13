@@ -7,8 +7,8 @@ Hi there! I'm a **22-year-old Software Engineer** from **Lahore, Pakistan**, cur
 I specialize in a wide range of tools and technologies, including:
 - **Frontend Development**: HTML, CSS, JavaScript, TypeScript, React JS, Next Js, React Native
 - **Styling Frameworks**: Tailwind CSS, SCSS, Bootstrap
-- **Tooling & Version Control**: Git, VITE, EXPO, Rapid API
-- **Backend Development**: Java, C#, C, MySQL
+- **Tooling & Version Control**: Git, VITE, EXPO, Rapid API, REST API, Postman, Figma
+- **Backend Development**: Springh Boot, Python, Java, C++, C#, C, MySQL
 - **Database Management**: MySQL (with hands-on expertise in **MySQL Workbench**)
 
 ## 👀 I’m interested in:
