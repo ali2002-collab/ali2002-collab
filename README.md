@@ -50,14 +50,26 @@ Passionate about building **scalable, efficient systems**, exploring **AI/ML**, 
 
 ## 📂 Featured Projects  
 
-- **Aidlet** – AI-powered code analysis tool (Spring Boot + Python + React)  
-  *AI-driven GitLab integration with NatWest’s AIDEN platform.*  
+- **[Treaty AI](#)** – *AI-powered contract analysis*  
+  **Tech:** Next.js 14 · TypeScript · shadcn/ui · Supabase · Python  
+  *Upload contracts to get clause extraction, risk flags, comparisons, and an AI chat that understands the entire document; generates redlines and export-ready summaries.*
 
-- **Collge** – Social networking app (Spring Boot + React Native + Next.js + MySQL/MongoDB)  
-  *Scaled to 250+ active users in 2 months.*  
+- **[Fuze AI](#)** – *M&A deal simulator*  
+  **Tech:** Next.js 14 · TypeScript · shadcn/ui · Recharts  
+  *Builds DCF/comps, pro-forma financials, synergy & sensitivity models, and auto-generates deal memos; interactive dashboards for scenario testing.*
 
-- **SQL Linting Tool** – Automated SQL health checks (Java + Python + SQLFluff)  
-  *Improved debugging efficiency for large datasets.*  
+- **[Aidlet](#)** – *AI-powered code analysis tool*  
+  **Tech:** Spring Boot · Python · React  
+  *AI-driven GitLab integration with NatWest’s AIDEN platform.*
+
+- **[Collge](#)** – *Social networking app*  
+  **Tech:** Spring Boot · React Native · Next.js · MySQL/MongoDB  
+  *Scaled to 250+ active users in 2 months.*
+
+- **[SQL Linting Tool](#)** – *Automated SQL health checks*  
+  **Tech:** Java · Python · SQLFluff  
+  *Improved debugging efficiency for large datasets.*
+
 
 ---
 
