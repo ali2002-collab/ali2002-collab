@@ -19,7 +19,7 @@ I enjoy turning complex problems into elegant technical solutions and continuous
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ My Tool Box 
 
 ### Programming Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -77,35 +77,50 @@ const ali = {
 };
 ```
 
-## 📂 Featured Projects  
-
-### 🔹 Treaty AI — AI Contract Intelligence  
-**Tech:** Next.js · TypeScript · Supabase · Python  
-Upload contracts → extract clauses → flag risks → compare versions → chat with document → generate summaries & redlines.  
-
-### 🔹 Fuze AI — M&A Deal Simulator  
-**Tech:** Next.js · TypeScript · Recharts  
-DCF & comps modeling, pro-forma financials, synergy analysis, scenario testing, and auto-generated deal memos.  
-
-### 🔹 Aidlet — AI Code Review Assistant  
-**Tech:** Spring Boot · Python · React  
-AI-driven GitLab integration providing automated code reviews and quality feedback.  
-
-### 🔹 Collge — Social Networking App  
-**Tech:** Spring Boot · React Native · Next.js · MySQL · MongoDB  
-Scaled to 250+ active users within two months.  
-
-### 🔹 SQL Linting Tool  
-**Tech:** Java · Python · SQLFluff  
-Automated SQL quality checks and performance recommendations.  
 
 ---
 
-## 🌱 Currently Exploring  
+## 🌱 Currently Learning & Growing
 
-- Advanced **Java & Spring Boot** microservices  
-- **Data Structures & Algorithms**  
-- Practical **AI/ML integration**  
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Development
+- Building intelligent applications
+- Machine Learning integration
+- AI-powered solutions
+
+</td>
+<td width="50%">
+
+### 📊 Data Structures & Algorithms
+- Problem-solving optimization
+- Coding interview preparation
+- Algorithm design patterns
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔄 CI/CD Pipeline Mastery
+- Jenkins, GitHub Actions
+- Automated deployment strategies
+- DevOps best practices
+
+</td>
+<td width="50%">
+
+### 🚀 Emerging Technologies
+- Cloud-native development
+- Microservices architecture
+- Modern development workflows
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -119,6 +134,9 @@ Automated SQL quality checks and performance recommendations.
 
 <div align="center">
 
-💡 *"First make it work. Then make it right. Then make it fast."*
+### 💡 "First make it work. Then make it right. Then make it fast."*
+**Open to opportunities • Available for collaboration • Ready to contribute**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ali2002-collab&color=blue&style=flat-square)
 
 </div>
