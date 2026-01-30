@@ -56,8 +56,6 @@ I enjoy turning complex problems into elegant technical solutions and continuous
 
 ---
 
-## 🧠 Developer Mindset  
-
 ```javascript
 const ali = {
   mindset: [
