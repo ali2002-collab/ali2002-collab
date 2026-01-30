@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Syed Muhammad Ali Hassan!  
+# 👋 Hello World, I'm Ali!  
 
 <div align="center">
 
