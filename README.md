@@ -86,7 +86,7 @@ const ali = {
 <td width="50%">
 
 ### 🤖 AI Development
-- Building intelligent applications
+- Building intelligent solutions
 - Machine Learning integration
 - AI-powered solutions
 
