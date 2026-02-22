@@ -72,7 +72,7 @@ const ali = {
     "System Architecture",
     "Performance Optimization"
   ],
-  funFact: "I enjoy turning vague ideas into working software"
+  funFact: "I enjoy turning vague ideas into working software 🚀"
 };
 ```
 
